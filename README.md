@@ -1,4 +1,4 @@
-# AI-assisted Pancreatic Ductal Adenocarcinoma Detection 
+# PanDx: AI-assisted Pancreatic Ductal Adenocarcinoma Detection 
 [![arXiv](https://img.shields.io/badge/preprint-2503.10068-blue)](https://arxiv.org/abs/2503.10068) [![cite](https://img.shields.io/badge/cite-BibTex-red)](xx) [![leaderboard](https://img.shields.io/badge/Leaderboard-yellow)](https://panorama.grand-challenge.org/evaluation/testing-phase/leaderboard/) [![website](https://img.shields.io/badge/Challenge%20website-50d13d)](https://panorama.grand-challenge.org/)
 
 ### This is Team DTI's :trophy: 1st place solution in the PANORAMA Challenge. 
@@ -112,3 +112,4 @@ This code is built upon the following works. We gratefully acknowledge their con
 1. Isensee, Fabian, et al. "nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation." Nature methods
 2. Bosma, Joeran S, et al. "Semi-supervised learning with report-guided pseudo labels for deep learning–based prostate cancer detection using biparametric MRI." Radiology AI
 3. Alves, Natália,  et al. "Fully automatic deep learning framework for pancreatic ductal adenocarcinoma detection on computed tomography." Cancers
+
