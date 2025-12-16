@@ -3,7 +3,7 @@
 
 ### This is Team DTI's :trophy: 1st place solution in the PANORAMA Challenge. 
 
-Paper: [AI-assisted Early Detection of Pancreatic Ductal Adenocarcinoma on Contrast-enhanced CT](https://arxiv.org/abs/2503.10068)
+Paper: [PanDx: AI-assisted Early Detection of Pancreatic Ductal Adenocarcinoma on Contrast-enhanced CT](https://arxiv.org/abs/2503.10068)
 
 <p align="center"><img src="https://github.com/han-liu/PDAC_Detection/blob/main/assets/gt_vs_pred.png" alt="gt_vs_pred" width="750"/></p>
 
@@ -112,5 +112,6 @@ This code is built upon the following works. We gratefully acknowledge their con
 1. Isensee, Fabian, et al. "nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation." Nature methods
 2. Bosma, Joeran S, et al. "Semi-supervised learning with report-guided pseudo labels for deep learning–based prostate cancer detection using biparametric MRI." Radiology AI
 3. Alves, Natália,  et al. "Fully automatic deep learning framework for pancreatic ductal adenocarcinoma detection on computed tomography." Cancers
+
 
 
