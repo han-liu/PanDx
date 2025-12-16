@@ -11,7 +11,7 @@ If you find our code/paper helpful for your research, please kindly consider cit
 ```
 @article{liu2025ai,
   title={AI-assisted Early Detection of Pancreatic Ductal Adenocarcinoma on Contrast-enhanced CT},
-  author={Liu, Han and Gao, Riqiang and Grbic, Sasa},
+  author={Liu, Han and Gao, Riqiang and Krieg, Eileen and Grbic, Sasa},
   journal={arXiv preprint arXiv:2503.10068},
   year={2025}
 }
@@ -112,4 +112,5 @@ This code is built upon the following works. We gratefully acknowledge their con
 1. Isensee, Fabian, et al. "nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation." Nature methods
 2. Bosma, Joeran S, et al. "Semi-supervised learning with report-guided pseudo labels for deep learning–based prostate cancer detection using biparametric MRI." Radiology AI
 3. Alves, Natália,  et al. "Fully automatic deep learning framework for pancreatic ductal adenocarcinoma detection on computed tomography." Cancers
+
 
